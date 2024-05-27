@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.4e23130e.css",
-    "main.js": "/your-repo-name/static/js/main.1f81caf3.js",
-    "static/js/453.d858012f.chunk.js": "/your-repo-name/static/js/453.d858012f.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.4e23130e.css.map": "/your-repo-name/static/css/main.4e23130e.css.map",
-    "main.1f81caf3.js.map": "/your-repo-name/static/js/main.1f81caf3.js.map",
-    "453.d858012f.chunk.js.map": "/your-repo-name/static/js/453.d858012f.chunk.js.map"
+    "main.css": "/contacts-app/static/css/main.4e23130e.css",
+    "main.js": "/contacts-app/static/js/main.c93d8f51.js",
+    "static/js/453.d858012f.chunk.js": "/contacts-app/static/js/453.d858012f.chunk.js",
+    "index.html": "/contacts-app/index.html",
+    "main.4e23130e.css.map": "/contacts-app/static/css/main.4e23130e.css.map",
+    "main.c93d8f51.js.map": "/contacts-app/static/js/main.c93d8f51.js.map",
+    "453.d858012f.chunk.js.map": "/contacts-app/static/js/453.d858012f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e23130e.css",
-    "static/js/main.1f81caf3.js"
+    "static/js/main.c93d8f51.js"
   ]
 }
