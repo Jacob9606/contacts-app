@@ -1,0 +1,20 @@
+.contact-card {
+  background-color: #f5f5f5;
+  border-radius: 15px;
+  margin: 1rem 0;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.contact-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.app-bar {
+  margin-bottom: 2rem;
+}
+
+.footer {
+  margin-top: 4rem;
+  text-align: center;
+}
