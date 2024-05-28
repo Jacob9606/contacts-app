@@ -17,16 +17,17 @@ To run this project locally, you need the following tools:
 
 First, clone the project repository from GitHub.
 
-```sh
 git clone https://github.com/Jacob9606/contacts-app.git
 cd contacts-app
 
-2. Install Dependencies
+### 2. Install Dependencies
 Navigate to the project directory and install the necessary dependencies.
 
 npm install
-Running the Local Server
+
+### 3. Running the Local Server
 To run the project locally, use the following command:
 
 npm start
+
 This command will start the development server and automatically open http://localhost:3000 in your browser. You can test the application using this URL.
